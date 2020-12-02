@@ -1,0 +1,58 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.25420.1
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{E24C65DC-7377-472B-9ABA-BC803B73C61A}") = "Shopping_UI", ".", "{D0BB1B60-86B4-46B7-9CB8-9A2587955053}"
+	ProjectSection(WebsiteProperties) = preProject
+		TargetFrameworkMoniker = ".NETFramework,Version%3Dv3.5"
+		ProjectReferences = "{08de11cc-3ed7-4a3f-ad5a-e400b120c1b2}|BLL.dll;{eaa892c1-fbf2-4669-bd56-b5a26f11ed55}|AustraliaDAL.dll;"
+		Debug.AspNetCompiler.VirtualPath = "/Shopping_UI"
+		Debug.AspNetCompiler.PhysicalPath = "..\Shopping_UI\"
+		Debug.AspNetCompiler.TargetPath = "PrecompiledWeb\Shopping_UI\"
+		Debug.AspNetCompiler.Updateable = "true"
+		Debug.AspNetCompiler.ForceOverwrite = "true"
+		Debug.AspNetCompiler.FixedNames = "false"
+		Debug.AspNetCompiler.Debug = "True"
+		Release.AspNetCompiler.VirtualPath = "/Shopping_UI"
+		Release.AspNetCompiler.PhysicalPath = "..\Shopping_UI\"
+		Release.AspNetCompiler.TargetPath = "PrecompiledWeb\Shopping_UI\"
+		Release.AspNetCompiler.Updateable = "true"
+		Release.AspNetCompiler.ForceOverwrite = "true"
+		Release.AspNetCompiler.FixedNames = "false"
+		Release.AspNetCompiler.Debug = "False"
+		VWDPort = "3228"
+		SlnRelativePath = "..\Shopping_UI\"
+	EndProjectSection
+	ProjectSection(ProjectDependencies) = postProject
+		{EAA892C1-FBF2-4669-BD56-B5A26F11ED55} = {EAA892C1-FBF2-4669-BD56-B5A26F11ED55}
+		{08DE11CC-3ED7-4A3F-AD5A-E400B120C1B2} = {08DE11CC-3ED7-4A3F-AD5A-E400B120C1B2}
+	EndProjectSection
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BLL", "..\Shopping_BLL\BLL\BLL.csproj", "{08DE11CC-3ED7-4A3F-AD5A-E400B120C1B2}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DAL", "..\Shopping_DAL\DAL\AustraliaDAL\DAL.csproj", "{EAA892C1-FBF2-4669-BD56-B5A26F11ED55}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{D0BB1B60-86B4-46B7-9CB8-9A2587955053}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D0BB1B60-86B4-46B7-9CB8-9A2587955053}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D0BB1B60-86B4-46B7-9CB8-9A2587955053}.Release|Any CPU.ActiveCfg = Debug|Any CPU
+		{D0BB1B60-86B4-46B7-9CB8-9A2587955053}.Release|Any CPU.Build.0 = Debug|Any CPU
+		{08DE11CC-3ED7-4A3F-AD5A-E400B120C1B2}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{08DE11CC-3ED7-4A3F-AD5A-E400B120C1B2}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{08DE11CC-3ED7-4A3F-AD5A-E400B120C1B2}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{08DE11CC-3ED7-4A3F-AD5A-E400B120C1B2}.Release|Any CPU.Build.0 = Release|Any CPU
+		{EAA892C1-FBF2-4669-BD56-B5A26F11ED55}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EAA892C1-FBF2-4669-BD56-B5A26F11ED55}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EAA892C1-FBF2-4669-BD56-B5A26F11ED55}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EAA892C1-FBF2-4669-BD56-B5A26F11ED55}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
