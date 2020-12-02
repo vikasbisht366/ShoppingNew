@@ -1,0 +1,45 @@
+D:\yogesh\Yogesh Research\Shopping\Discount Bazar\DAL\AustraliaDAL\bin\Debug\AustraliaDAL.dll.config
+D:\yogesh\Yogesh Research\Shopping\Discount Bazar\DAL\AustraliaDAL\bin\Debug\AustraliaDAL.dll
+D:\yogesh\Yogesh Research\Shopping\Discount Bazar\DAL\AustraliaDAL\bin\Debug\AustraliaDAL.pdb
+D:\yogesh\Yogesh Research\Shopping\Discount Bazar\DAL\AustraliaDAL\obj\Debug\ResolveAssemblyReference.cache
+D:\yogesh\Yogesh Research\Shopping\Discount Bazar\DAL\AustraliaDAL\obj\Debug\AustraliaDAL.dll
+D:\yogesh\Yogesh Research\Shopping\Discount Bazar\DAL\AustraliaDAL\obj\Debug\AustraliaDAL.pdb
+D:\yogesh\Projects _Running\Shopping\Shopping_DAL\DAL\AustraliaDAL\bin\Debug\AustraliaDAL.dll.config
+D:\yogesh\Projects _Running\Shopping\Shopping_DAL\DAL\AustraliaDAL\bin\Debug\AustraliaDAL.dll
+D:\yogesh\Projects _Running\Shopping\Shopping_DAL\DAL\AustraliaDAL\bin\Debug\AustraliaDAL.pdb
+D:\yogesh\Projects _Running\Shopping\Shopping_DAL\DAL\AustraliaDAL\obj\Debug\ResolveAssemblyReference.cache
+D:\yogesh\Projects _Running\Shopping\Shopping_DAL\DAL\AustraliaDAL\obj\Debug\AustraliaDAL.dll
+D:\yogesh\Projects _Running\Shopping\Shopping_DAL\DAL\AustraliaDAL\obj\Debug\AustraliaDAL.pdb
+D:\Sopping\Sopping\Shopping_DAL\DAL\AustraliaDAL\bin\Debug\AustraliaDAL.dll.config
+D:\Sopping\Sopping\Shopping_DAL\DAL\AustraliaDAL\bin\Debug\AustraliaDAL.dll
+D:\Sopping\Sopping\Shopping_DAL\DAL\AustraliaDAL\bin\Debug\AustraliaDAL.pdb
+D:\Sopping\Sopping\Shopping_DAL\DAL\AustraliaDAL\obj\Debug\AustraliaDAL.dll
+D:\Sopping\Sopping\Shopping_DAL\DAL\AustraliaDAL\obj\Debug\AustraliaDAL.pdb
+D:\Project\Sopping\Shopping_DAL\DAL\AustraliaDAL\bin\Debug\AustraliaDAL.dll.config
+D:\Project\Sopping\Shopping_DAL\DAL\AustraliaDAL\bin\Debug\AustraliaDAL.dll
+D:\Project\Sopping\Shopping_DAL\DAL\AustraliaDAL\bin\Debug\AustraliaDAL.pdb
+D:\Project\Sopping\Shopping_DAL\DAL\AustraliaDAL\obj\Debug\ResolveAssemblyReference.cache
+D:\Project\Sopping\Shopping_DAL\DAL\AustraliaDAL\obj\Debug\AustraliaDAL.dll
+D:\Project\Sopping\Shopping_DAL\DAL\AustraliaDAL\obj\Debug\AustraliaDAL.pdb
+E:\project\Sopping\Shopping_DAL\DAL\AustraliaDAL\bin\Debug\AustraliaDAL.dll.config
+E:\project\Sopping\Shopping_DAL\DAL\AustraliaDAL\bin\Debug\AustraliaDAL.dll
+E:\project\Sopping\Shopping_DAL\DAL\AustraliaDAL\bin\Debug\AustraliaDAL.pdb
+E:\project\Sopping\Shopping_DAL\DAL\AustraliaDAL\obj\Debug\AustraliaDAL.dll
+E:\project\Sopping\Shopping_DAL\DAL\AustraliaDAL\obj\Debug\AustraliaDAL.pdb
+D:\ALL E DRIVE PROJECT\Project\Sopping\Shopping_DAL\DAL\AustraliaDAL\bin\Debug\AustraliaDAL.dll.config
+D:\ALL E DRIVE PROJECT\Project\Sopping\Shopping_DAL\DAL\AustraliaDAL\bin\Debug\AustraliaDAL.dll
+D:\ALL E DRIVE PROJECT\Project\Sopping\Shopping_DAL\DAL\AustraliaDAL\bin\Debug\AustraliaDAL.pdb
+D:\ALL E DRIVE PROJECT\Project\Sopping\Shopping_DAL\DAL\AustraliaDAL\obj\Debug\DAL.csprojResolveAssemblyReference.cache
+D:\ALL E DRIVE PROJECT\Project\Sopping\Shopping_DAL\DAL\AustraliaDAL\obj\Debug\AustraliaDAL.dll
+D:\ALL E DRIVE PROJECT\Project\Sopping\Shopping_DAL\DAL\AustraliaDAL\obj\Debug\AustraliaDAL.pdb
+E:\project\Sopping\Shopping_DAL\DAL\AustraliaDAL\obj\Debug\DAL.csprojResolveAssemblyReference.cache
+E:\project\GharTak\Shopping_DAL\DAL\AustraliaDAL\bin\Debug\AustraliaDAL.dll.config
+E:\project\GharTak\Shopping_DAL\DAL\AustraliaDAL\bin\Debug\AustraliaDAL.dll
+E:\project\GharTak\Shopping_DAL\DAL\AustraliaDAL\bin\Debug\AustraliaDAL.pdb
+E:\project\GharTak\Shopping_DAL\DAL\AustraliaDAL\obj\Debug\AustraliaDAL.dll
+E:\project\GharTak\Shopping_DAL\DAL\AustraliaDAL\obj\Debug\AustraliaDAL.pdb
+E:\Project\Shopping Project\GharTak\GharTak\Shopping_DAL\DAL\AustraliaDAL\bin\Debug\AustraliaDAL.dll.config
+E:\Project\Shopping Project\GharTak\GharTak\Shopping_DAL\DAL\AustraliaDAL\bin\Debug\AustraliaDAL.dll
+E:\Project\Shopping Project\GharTak\GharTak\Shopping_DAL\DAL\AustraliaDAL\bin\Debug\AustraliaDAL.pdb
+E:\Project\Shopping Project\GharTak\GharTak\Shopping_DAL\DAL\AustraliaDAL\obj\Debug\AustraliaDAL.dll
+E:\Project\Shopping Project\GharTak\GharTak\Shopping_DAL\DAL\AustraliaDAL\obj\Debug\AustraliaDAL.pdb

@@ -1,0 +1,12 @@
+D:\Demo\product\AustraliaDAL\AustraliaDAL\bin\Debug\AustraliaDAL.dll.config
+D:\Demo\product\AustraliaDAL\AustraliaDAL\bin\Debug\AustraliaDAL.dll
+D:\Demo\product\AustraliaDAL\AustraliaDAL\bin\Debug\AustraliaDAL.pdb
+D:\Demo\product\AustraliaDAL\AustraliaDAL\obj\Debug\ResolveAssemblyReference.cache
+D:\Demo\product\AustraliaDAL\AustraliaDAL\obj\Debug\AustraliaDAL.dll
+D:\Demo\product\AustraliaDAL\AustraliaDAL\obj\Debug\AustraliaDAL.pdb
+F:\Projects\Australia\DAL\AustraliaDAL\bin\Debug\AustraliaDAL.dll.config
+F:\Projects\Australia\DAL\AustraliaDAL\bin\Debug\AustraliaDAL.dll
+F:\Projects\Australia\DAL\AustraliaDAL\bin\Debug\AustraliaDAL.pdb
+F:\Projects\Australia\DAL\AustraliaDAL\obj\Debug\ResolveAssemblyReference.cache
+F:\Projects\Australia\DAL\AustraliaDAL\obj\Debug\AustraliaDAL.dll
+F:\Projects\Australia\DAL\AustraliaDAL\obj\Debug\AustraliaDAL.pdb

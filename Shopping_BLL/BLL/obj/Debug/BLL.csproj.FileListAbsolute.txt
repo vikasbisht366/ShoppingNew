@@ -1,0 +1,77 @@
+F:\Project\Running\Sanvaria New\BLL\BLL\obj\Debug\ResolveAssemblyReference.cache
+F:\Project\Running\Sanvaria New\BLL\BLL\bin\Debug\BLL.dll
+F:\Project\Running\Sanvaria New\BLL\BLL\bin\Debug\BLL.pdb
+F:\Project\Running\Sanvaria New\BLL\BLL\bin\Debug\DAL.dll
+F:\Project\Running\Sanvaria New\BLL\BLL\bin\Debug\DAL.pdb
+F:\Project\Running\Sanvaria New\BLL\BLL\obj\Debug\BLL.dll
+F:\Project\Running\Sanvaria New\BLL\BLL\obj\Debug\BLL.pdb
+F:\Project\Running\Common Structure\BLL\BLL\bin\Debug\BLL.dll
+F:\Project\Running\Common Structure\BLL\BLL\bin\Debug\BLL.pdb
+F:\Project\Running\Common Structure\BLL\BLL\bin\Debug\DAL.dll
+F:\Project\Running\Common Structure\BLL\BLL\bin\Debug\DAL.pdb
+F:\Project\Running\Common Structure\BLL\BLL\obj\Debug\ResolveAssemblyReference.cache
+F:\Project\Running\Common Structure\BLL\BLL\obj\Debug\BLL.dll
+F:\Project\Running\Common Structure\BLL\BLL\obj\Debug\BLL.pdb
+F:\Projects\Australia\BLL\BLL\obj\Debug\ResolveAssemblyReference.cache
+F:\Projects\Australia\BLL\BLL\bin\Debug\BLL.dll
+F:\Projects\Australia\BLL\BLL\bin\Debug\BLL.pdb
+F:\Projects\Australia\BLL\BLL\bin\Debug\AustraliaDAL.dll
+F:\Projects\Australia\BLL\BLL\bin\Debug\AustraliaDAL.pdb
+F:\Projects\Australia\BLL\BLL\obj\Debug\BLL.dll
+F:\Projects\Australia\BLL\BLL\obj\Debug\BLL.pdb
+D:\yogesh\Yogesh Research\Shopping\Discount Bazar\BLL\BLL\bin\Debug\BLL.dll
+D:\yogesh\Yogesh Research\Shopping\Discount Bazar\BLL\BLL\bin\Debug\BLL.pdb
+D:\yogesh\Yogesh Research\Shopping\Discount Bazar\BLL\BLL\bin\Debug\AustraliaDAL.dll
+D:\yogesh\Yogesh Research\Shopping\Discount Bazar\BLL\BLL\bin\Debug\AustraliaDAL.pdb
+D:\yogesh\Yogesh Research\Shopping\Discount Bazar\BLL\BLL\obj\Debug\ResolveAssemblyReference.cache
+D:\yogesh\Yogesh Research\Shopping\Discount Bazar\BLL\BLL\obj\Debug\BLL.dll
+D:\yogesh\Yogesh Research\Shopping\Discount Bazar\BLL\BLL\obj\Debug\BLL.pdb
+D:\yogesh\Projects _Running\Shopping\Shopping_BLL\BLL\bin\Debug\BLL.dll
+D:\yogesh\Projects _Running\Shopping\Shopping_BLL\BLL\bin\Debug\BLL.pdb
+D:\yogesh\Projects _Running\Shopping\Shopping_BLL\BLL\obj\Debug\ResolveAssemblyReference.cache
+D:\yogesh\Projects _Running\Shopping\Shopping_BLL\BLL\obj\Debug\BLL.dll
+D:\yogesh\Projects _Running\Shopping\Shopping_BLL\BLL\obj\Debug\BLL.pdb
+D:\yogesh\Projects _Running\Shopping\Shopping_BLL\BLL\bin\Debug\AustraliaDAL.dll
+D:\yogesh\Projects _Running\Shopping\Shopping_BLL\BLL\bin\Debug\AustraliaDAL.pdb
+D:\Sopping\Sopping\Shopping_BLL\BLL\bin\Debug\BLL.dll
+D:\Sopping\Sopping\Shopping_BLL\BLL\bin\Debug\BLL.pdb
+D:\Sopping\Sopping\Shopping_BLL\BLL\bin\Debug\AustraliaDAL.dll
+D:\Sopping\Sopping\Shopping_BLL\BLL\bin\Debug\AustraliaDAL.pdb
+D:\Sopping\Sopping\Shopping_BLL\BLL\obj\Debug\BLL.csprojResolveAssemblyReference.cache
+D:\Sopping\Sopping\Shopping_BLL\BLL\obj\Debug\BLL.dll
+D:\Sopping\Sopping\Shopping_BLL\BLL\obj\Debug\BLL.pdb
+D:\Project\Sopping\Shopping_BLL\BLL\bin\Debug\BLL.dll
+D:\Project\Sopping\Shopping_BLL\BLL\bin\Debug\BLL.pdb
+D:\Project\Sopping\Shopping_BLL\BLL\bin\Debug\AustraliaDAL.dll
+D:\Project\Sopping\Shopping_BLL\BLL\bin\Debug\AustraliaDAL.pdb
+D:\Project\Sopping\Shopping_BLL\BLL\obj\Debug\ResolveAssemblyReference.cache
+D:\Project\Sopping\Shopping_BLL\BLL\obj\Debug\BLL.dll
+D:\Project\Sopping\Shopping_BLL\BLL\obj\Debug\BLL.pdb
+E:\Project\Sopping\Shopping_BLL\BLL\bin\Debug\BLL.dll
+E:\Project\Sopping\Shopping_BLL\BLL\bin\Debug\BLL.pdb
+E:\Project\Sopping\Shopping_BLL\BLL\bin\Debug\AustraliaDAL.dll
+E:\Project\Sopping\Shopping_BLL\BLL\bin\Debug\AustraliaDAL.pdb
+E:\Project\Sopping\Shopping_BLL\BLL\obj\Debug\BLL.dll
+E:\Project\Sopping\Shopping_BLL\BLL\obj\Debug\BLL.pdb
+E:\project\Sopping\Shopping_BLL\BLL\obj\Debug\BLL.csprojResolveAssemblyReference.cache
+D:\ALL E DRIVE PROJECT\Project\Sopping\Shopping_BLL\BLL\obj\Debug\BLL.csprojResolveAssemblyReference.cache
+D:\ALL E DRIVE PROJECT\Project\Sopping\Shopping_BLL\BLL\obj\Debug\BLL.dll
+D:\ALL E DRIVE PROJECT\Project\Sopping\Shopping_BLL\BLL\obj\Debug\BLL.pdb
+D:\ALL E DRIVE PROJECT\Project\Sopping\Shopping_BLL\BLL\bin\Debug\BLL.dll
+D:\ALL E DRIVE PROJECT\Project\Sopping\Shopping_BLL\BLL\bin\Debug\BLL.pdb
+D:\ALL E DRIVE PROJECT\Project\Sopping\Shopping_BLL\BLL\bin\Debug\AustraliaDAL.dll
+D:\ALL E DRIVE PROJECT\Project\Sopping\Shopping_BLL\BLL\bin\Debug\AustraliaDAL.pdb
+E:\project\GharTak\Shopping_BLL\BLL\bin\Debug\BLL.dll
+E:\project\GharTak\Shopping_BLL\BLL\bin\Debug\BLL.pdb
+E:\project\GharTak\Shopping_BLL\BLL\bin\Debug\AustraliaDAL.dll
+E:\project\GharTak\Shopping_BLL\BLL\bin\Debug\AustraliaDAL.pdb
+E:\project\GharTak\Shopping_BLL\BLL\obj\Debug\BLL.csprojResolveAssemblyReference.cache
+E:\project\GharTak\Shopping_BLL\BLL\obj\Debug\BLL.dll
+E:\project\GharTak\Shopping_BLL\BLL\obj\Debug\BLL.pdb
+E:\Project\Shopping Project\GharTak\GharTak\Shopping_BLL\BLL\bin\Debug\BLL.dll
+E:\Project\Shopping Project\GharTak\GharTak\Shopping_BLL\BLL\bin\Debug\BLL.pdb
+E:\Project\Shopping Project\GharTak\GharTak\Shopping_BLL\BLL\bin\Debug\AustraliaDAL.dll
+E:\Project\Shopping Project\GharTak\GharTak\Shopping_BLL\BLL\bin\Debug\AustraliaDAL.pdb
+E:\Project\Shopping Project\GharTak\GharTak\Shopping_BLL\BLL\obj\Debug\BLL.csprojResolveAssemblyReference.cache
+E:\Project\Shopping Project\GharTak\GharTak\Shopping_BLL\BLL\obj\Debug\BLL.dll
+E:\Project\Shopping Project\GharTak\GharTak\Shopping_BLL\BLL\obj\Debug\BLL.pdb

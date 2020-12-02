@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type='text/xsl' href='_UpgradeReport_Files/UpgradeReport.xslt'?><UpgradeLog>
+<Properties><Property Name="Solution" Value="BLL">
+</Property><Property Name="Solution File" Value="D:\yogesh\Projects _Running\Shopping\Shopping_BLL\BLL\BLL.sln">
+</Property><Property Name="Date" Value="Wednesday, August 07, 2013">
+</Property><Property Name="Time" Value="12:02 PM">
+</Property></Properties><Event ErrorLevel="0" Project="BLL" Source="BLL.csproj" Description="The project file does not require conversion.">
+</Event><Event ErrorLevel="3" Project="BLL" Source="BLL.csproj" Description="No Conversion Required">
+</Event><Event ErrorLevel="0" Project="" Source="BLL.sln" Description="Solution converted successfully">
+</Event><Event ErrorLevel="3" Project="" Source="BLL.sln" Description="Converted">
+</Event></UpgradeLog>

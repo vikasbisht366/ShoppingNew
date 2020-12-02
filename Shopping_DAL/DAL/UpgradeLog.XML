@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type='text/xsl' href='_UpgradeReport_Files/UpgradeReport.xslt'?><UpgradeLog>
+<Properties><Property Name="Solution" Value="AustraliaDAL">
+</Property><Property Name="Solution File" Value="D:\yogesh\Projects _Running\Shopping\Shopping_DAL\DAL\AustraliaDAL.sln">
+</Property><Property Name="Date" Value="Wednesday, August 07, 2013">
+</Property><Property Name="Time" Value="12:12 PM">
+</Property></Properties><Event ErrorLevel="2" Project="AustraliaDAL" Source="AustraliaDAL\AustraliaDAL.csproj" Description="Unable to open project file to perform upgrade.  ">
+</Event><Event ErrorLevel="0" Project="" Source="AustraliaDAL.sln" Description="Solution converted successfully">
+</Event><Event ErrorLevel="3" Project="" Source="AustraliaDAL.sln" Description="Converted">
+</Event></UpgradeLog>
