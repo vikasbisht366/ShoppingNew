@@ -1,0 +1,47 @@
+﻿<%--
+Default skin template. The following skins are provided as examples only.
+
+1. Named control skin. The SkinId should be uniquely defined because
+   duplicate SkinId's per control type are not allowed in the same theme.
+
+<asp:GridView runat="server" SkinId="gridviewSkin" BackColor="White" >
+   <AlternatingRowStyle BackColor="Blue" />
+</asp:GridView>
+
+2. Default skin. The SkinId is not defined. Only one default 
+   control skin per control type is allowed in the same theme.
+
+<asp:Image runat="server" ImageUrl="~/images/image1.jpg" />
+--%>
+<asp:GridView  runat="server" SkinId="gridviewSkin"      AutoGenerateColumns="false" AllowPaging="true"    Width="90%"  AllowSorting="True" 
+                                UseAccessibleHeader="True"  >
+    <PagerSettings Position="Bottom" Mode="numeric" FirstPageText="First" LastPageText="Last"   NextPageText="Next" PreviousPageText="Prev"  />
+    <PagerStyle   CssClass="Paginat  bdr-t bdr-b bdr-r bdr-l"  HorizontalAlign="center" VerticalAlign="Top" Font-Bold="true"   />
+    <RowStyle CssClass="grid_inner1 list bdr-r bdr-b bdr-l" HorizontalAlign="Left" VerticalAlign="Top"  Height="20px"  />
+    <AlternatingRowStyle CssClass="list bdr-r bdr-b bdr-l" BackColor="#F3F3F3" />
+    <HeaderStyle  CssClass="grid bdr-t bdr-b bdr-r bdr-l" Height="30px"  HorizontalAlign="Left"   />
+</asp:GridView>
+
+<asp:DataGrid  runat="server" SkinId="gridviewSkin"      AutoGenerateColumns="false" AllowPaging="true"    Width="95%" AllowSorting="True" 
+                                UseAccessibleHeader="True"   >
+    <PagerStyle   CssClass="Paginat  bdr-t bdr-b bdr-r bdr-l"  HorizontalAlign="center" VerticalAlign="Top" Font-Bold="true"   />
+    <ItemStyle CssClass="grid_inner1 list bdr-r bdr-b bdr-l" HorizontalAlign="Left" VerticalAlign="Top"  Height="20px"  />
+    <AlternatingItemStyle CssClass="list bdr-r bdr-b bdr-l" BackColor="#F3F3F3" />
+    <HeaderStyle  CssClass="grid bdr-t bdr-b bdr-r bdr-l" Height="30px"  HorizontalAlign="Left"   />
+</asp:DataGrid>
+<asp:DataGrid  runat="server" SkinId="dataGridSkin"      AutoGenerateColumns="false" AllowPaging="true"    Width="95%"  AllowSorting="True" 
+                                UseAccessibleHeader="True"  >
+    <PagerStyle CssClass="Paginat  bdr-t bdr-b bdr-r bdr-l"  HorizontalAlign="center" VerticalAlign="Top" Font-Bold="true"   />
+    <ItemStyle CssClass="grid_inner1 list bdr-r bdr-b bdr-l" HorizontalAlign="Left" VerticalAlign="Top"  Height="20px"  />
+    <AlternatingItemStyle CssClass="list bdr-r bdr-b bdr-l" BackColor="#F3F3F3" />
+    <HeaderStyle  CssClass="grid bdr-t bdr-b bdr-r bdr-l" Height="30px"  HorizontalAlign="Left"   />
+</asp:DataGrid>
+
+
+
+
+ <asp:FileUpload runat="server" ForeColor="Olive" BorderStyle="Solid" SkinID="upload" />
+<asp:textbox CssClass="txt"  runat="server" Width="80%"></asp:textbox>
+<asp:textbox SkinID="Text" CssClass="txt"  runat="server" Width="40%"></asp:textbox>
+
+<asp:DropDownList  runat="server" CssClass="txt" ToolTip="Select" />

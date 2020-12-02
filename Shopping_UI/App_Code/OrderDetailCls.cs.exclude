@@ -1,0 +1,329 @@
+﻿using System;
+using System.Data;
+using System.Configuration;
+using System.Linq;
+using System.Web;
+using System.Web.Security;
+using System.Web.UI;
+using System.Web.UI.HtmlControls;
+using System.Web.UI.WebControls;
+using System.Web.UI.WebControls.WebParts;
+using System.Xml.Linq;
+using System.Data.SqlClient;
+
+/// <summary>
+/// Summary description for OrderDetailCls
+/// </summary>
+public class OrderDetailCls
+{
+    # region variable declaration
+    SqlParameter[] param;
+    DataTable dt;
+    private Int32 _id;
+    private string _userId;
+    private Int32 _productId;
+    private Int32 _orderId;
+    private Int32 _qty;
+    private bool _isActive;
+
+
+    #endregion
+
+
+    # region Property
+
+    public Int32 id
+    {
+        get
+        {
+            return _id;
+        }
+        set
+        {
+            _id = value;
+        }
+    }
+
+    public Int32 productId
+    {
+        get
+        {
+            return _productId;
+        }
+        set
+        {
+            _productId = value;
+        }
+    }
+
+    public Int32 orderId
+    {
+        get
+        {
+            return _orderId;
+        }
+        set
+        {
+            _orderId = value;
+        }
+    }
+
+    public Int32 qty
+    {
+        get
+        {
+            return _qty;
+        }
+        set
+        {
+            _qty = value;
+        }
+    }
+
+
+    public string userId
+    {
+        get
+        {
+            return _userId;
+        }
+        set
+        {
+            _userId = value;
+        }
+    }
+    public bool isActive
+    {
+        get
+        {
+            return _isActive;
+        }
+        set
+        {
+            _isActive = value;
+        }
+    }
+
+
+    # endregion
+
+    #region Constructor
+    public OrderDetailCls()
+    {
+    }
+
+    public OrderDetailCls(Int32 orderId) 
+    {
+        this.orderId = orderId;
+    }
+
+    public OrderDetailCls(Int32 id, string userId, Int32 productId, Int32 orderId, Int32 qty, bool isActive)  
+    {
+        this.id = id;
+        this.userId = userId;
+        this.productId = productId;
+        this._orderId = orderId;
+        this._qty = qty;
+        this.isActive = isActive;
+    }
+    #endregion
+
+    #region methods
+
+    public void ValueToObject(Int32 id, string userId, Int32 productId, Int32 orderId, Int32 qty, bool isActive)
+    {
+        try
+        {
+            this.id = id;
+            this.userId = userId;
+            this.productId = productId;
+            this._orderId = orderId;
+            this._qty = qty;
+            this.isActive = isActive;
+        }
+        catch
+        {
+            throw;
+        }
+        finally
+        {
+
+        }
+
+    }
+
+    public DataTable getOrderDetailByUserId()   // return feedback of particulat user  
+    {
+        try
+        {
+            param = new SqlParameter[1];
+            param[0] = new SqlParameter("@userId", SqlDbType.NVarChar);
+            param[0].Value = this.userId;
+
+            return (DataTier.SqlHelper.ExecuteDataset(CommandType.StoredProcedure, "sp_getOrderDetailByUserId", param)).Tables[0];
+        }
+        catch
+        {
+            throw;
+        }
+        finally
+        {
+
+        }
+    }
+
+    public DataTable getOrderDetailByOrderId()   // return feedback of particulat product  
+    {
+        try
+        {
+            param = new SqlParameter[1];
+            param[0] = new SqlParameter("@orderId", SqlDbType.Int);
+            param[0].Value = this.orderId;
+
+            return (DataTier.SqlHelper.ExecuteDataset(CommandType.StoredProcedure, "sp_getOrderDetailByOrderId", param)).Tables[0];
+        }
+        catch
+        {
+            throw;
+        }
+        finally
+        {
+
+        }
+    }
+
+    public DataTable sp_getOrderDetailBy_OrderId()   // return feedback of particulat product  
+    {
+        try
+        {
+            param = new SqlParameter[1];
+            param[0] = new SqlParameter("@orderId", SqlDbType.Int);
+            param[0].Value = this.orderId;
+
+            return (DataTier.SqlHelper.ExecuteDataset(CommandType.StoredProcedure, "sp_getOrderDetailBy_OrderId", param)).Tables[0];
+        }
+        catch
+        {
+            throw;
+        }
+        finally
+        {
+
+        }
+    }
+
+    public DataTable getOrderDetailByDate(string date)   // return order detail of particular date for ex---date,tomaarow,yesterday,this week,this month etc. 
+    {
+        try
+        {
+            param = new SqlParameter[1];
+            param[0] = new SqlParameter("@date", SqlDbType.NVarChar);
+            param[0].Value = date;
+
+            return (DataTier.SqlHelper.ExecuteDataset(CommandType.StoredProcedure, "sp_getOrderDetailByDate", param)).Tables[0];
+        }
+        catch
+        {
+            throw;
+        }
+        finally
+        {
+
+        }
+    }
+
+    public Int32 deleteOrderDetailById() // delete feedback by user id
+    {
+        try
+        {
+            param = new SqlParameter[1];
+            param[0] = new SqlParameter("@id", SqlDbType.Int);
+            param[0].Value = this.id;
+
+            return DataTier.SqlHelper.ExecuteNonQuery(CommandType.StoredProcedure, "sp_deleteOrderDetailById", param);
+        }
+        catch
+        {
+            throw;
+        }
+        finally
+        {
+
+        }
+    }
+
+    public Int32 deleteOrderDetailByOrderId() // delete feedback by user id
+    {
+        try
+        {
+            param = new SqlParameter[1];
+            param[0] = new SqlParameter("@orderId", SqlDbType.Int);
+            param[0].Value = this.orderId;
+
+            return DataTier.SqlHelper.ExecuteNonQuery(CommandType.StoredProcedure, "sp_deleteOrderDetailByOrderId", param);
+        }
+        catch
+        {
+            throw;
+        }
+        finally
+        {
+
+        }
+    }
+
+    public Int32 deleteOrderDetailByUserId() // delete feedback by product id
+    {
+        try
+        {
+            param = new SqlParameter[1];
+            param[0] = new SqlParameter("@userId", SqlDbType.Int);
+            param[0].Value = this.userId;
+
+            return DataTier.SqlHelper.ExecuteNonQuery(CommandType.StoredProcedure, "sp_deleteOrderDetailByUserId", param);
+        }
+        catch
+        {
+            throw;
+        }
+        finally
+        {
+
+        }
+    }
+
+
+    
+
+    public Int32 addEditOrderDetail()
+    {
+        try
+        {
+            param = new SqlParameter[6];
+            param[0] = new SqlParameter("@id", SqlDbType.Int);
+            param[0].Value = this.id;
+            param[1] = new SqlParameter("@userId", SqlDbType.NVarChar);
+            param[1].Value = this.userId;
+            param[2] = new SqlParameter("@productId", SqlDbType.Int);
+            param[2].Value = this.productId;
+            param[3] = new SqlParameter("@orderId", SqlDbType.Int);
+            param[3].Value = this.orderId;
+            param[4] = new SqlParameter("@qty", SqlDbType.Int);
+            param[4].Value = this.qty;
+            param[5] = new SqlParameter("@isActive", SqlDbType.Bit);
+            param[5].Value = this.isActive;
+
+            return DataTier.SqlHelper.ExecuteNonQuery(CommandType.StoredProcedure, "sp_addEditOrderDetail", param);
+        }
+        catch
+        {
+            throw;
+        }
+        finally
+        {
+
+        }
+    }
+
+    #endregion
+}
